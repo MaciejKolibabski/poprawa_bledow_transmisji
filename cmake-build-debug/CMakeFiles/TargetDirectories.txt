@@ -1,0 +1,3 @@
+C:/Users/macie/CLionProjects/tele1proba/cmake-build-debug/CMakeFiles/tele1proba.dir
+C:/Users/macie/CLionProjects/tele1proba/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/macie/CLionProjects/tele1proba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
